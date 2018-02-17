@@ -5,8 +5,6 @@ date:   2018-02-17
 categories: open source
 ---
 
-# Introducing Breaking Changes in Open Source
-
 In today's software world, your project depends upon 3rd party software that you did not author. Even if you examine the code of the packages you import in your project, you still don't know what your OS of choice and its dependencies do, or what your cloud provider does behind the scenes. This is because we don't have the time (or knowledge), or permissions to read the code (proprietary).
 
 In this post we discuss how we can get latest updates without breaking our app.
