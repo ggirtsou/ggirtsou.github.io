@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing Breaking Changes in Open Source"
 description: "Your app depends on 3rd party open source software - how do you avoid breaking changes?"
 date:   2018-02-17
-tags: "open-source"
+tags: "open-source semver breaking-changes"
 ---
 
 In today's software world, your project depends upon 3rd party software that you did not author. Even if you examine the code of the packages you import in your project, you still don't know what your OS of choice and its dependencies do, or what your cloud provider does behind the scenes. This is because we don't have the time (or knowledge), or permissions to read the code (proprietary).
