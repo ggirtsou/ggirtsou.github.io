@@ -82,6 +82,7 @@ are replicated and instances run across different availability zones and regions
 The on-call engineer can do so much, but it's not up to them to make everything from scratch shall a failure occurs.
 
 ![On call](https://pbs.twimg.com/media/CyYglEWXcAIcuf0.jpg:large)
+_Pictured above: "Welcome to the cloud, here's the system, you'll be on call today" [source](https://twitter.com/mononcqc/status/803365410347352064)_
 
 ## How do you get alerted?
 
