@@ -25,6 +25,7 @@ Additionally, you want your service to be highly available:
 
 * deploy in multiple availability zones and regions,
 * replicate data multiple times
+* design with failure as a real scenario and add retriable logic with exponential backoff
 
 And secure ([security](https://www.owasp.org/index.php/Top_10_2013-Top_10) is a huge topic and below list is by no means exhaustive):
 
