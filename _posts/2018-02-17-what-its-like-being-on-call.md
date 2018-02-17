@@ -81,7 +81,15 @@ are replicated and instances run across different availability zones and regions
 
 The on-call engineer can do so much, but it's not up to them to make everything from scratch shall a failure occurs.
 
-![You're on call today][https://pbs.twimg.com/media/CyYglEWXcAIcuf0.jpg:large]
+![On call](https://pbs.twimg.com/media/CyYglEWXcAIcuf0.jpg:large)
+
+## How do you get alerted?
+
+Usually, you install an application on your phone such as [OpsGenie](https://www.opsgenie.com/) or [PagerDuty](https://www.pagerduty.com/) and
+you receive alerts there. If you're using [Slack](https://slack.com/) and there is a channel with all the alerts, you can get notifications from there as well.
+
+Additionally, you can configure the alerting service to call you on your phone or
+send you an SMS message (in cases where mobile data reception is bad).
 
 ## Your experience
 
