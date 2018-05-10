@@ -99,7 +99,7 @@ Have a backup strategy as well as a way to restore from previous backups. It is 
 important that your teammates are familiar with these processes and you have tested they
 work.
 
-You don't want restoring from a backup to fail in a critical situation.
+You don't want restoring from a backup to fail in a critical moment.
 
 You also want an alert if backups are not being taken, this can be achieved by your backup
 service exposing relevant metrics and you setting up alerts for all apps that have their
