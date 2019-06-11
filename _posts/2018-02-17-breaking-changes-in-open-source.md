@@ -28,7 +28,7 @@ A [package manager](https://en.wikipedia.org/wiki/Package_manager) is a handy to
 #### How do they work?
 Every package manager has a particular file where the version of dependencies is referenced. You can specify a git hash or semver version. When the package manager runs, it downloads the dependencies in a `vendor` (or similar) directory.
 
-#### Pros and Cons
+### Pros and Cons
 
 **Git hash**
 The downside of using a hardcoded git hash is that you're "stuck" to a specific version, and you won't get further updates unless you change it.
