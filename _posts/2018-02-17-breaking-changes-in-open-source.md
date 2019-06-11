@@ -47,9 +47,7 @@ If a breaking change is detected, your tests should fail because the 3rd party l
 ## How to fix a broken upstream dependency?
 You can update your project to use the updated API, or if you are in a hurry, vendor the library with the breaking change until you are ready to upgrade.
 
-## Summary
-
-Depending on your use case/organization/preferences, one approach might seem more appropriate than another. I'm happy to keep the conversation going, and hear your ideas - feel free [to reach out to me on Twitter](https://twitter.com/GeorgeGkirtsou)!
+Depending on your use case/organization/preferences, one approach might seem more appropriate than another.
 
 ## Examples of breaking changes in real life
 
