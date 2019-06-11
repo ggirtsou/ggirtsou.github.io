@@ -50,3 +50,7 @@ You can update your project to use the updated API, or if you are in a hurry, ve
 ## Summary
 
 Depending on your use case/organization/preferences, one approach might seem more appropriate than another. I'm happy to keep the conversation going, and hear your ideas - feel free [to reach out to me on Twitter](https://twitter.com/GeorgeGkirtsou)!
+
+## Examples of breaking changes in real life
+
+* [logrus, a popular logging library in Go](https://github.com/sirupsen/logrus/issues/451)
