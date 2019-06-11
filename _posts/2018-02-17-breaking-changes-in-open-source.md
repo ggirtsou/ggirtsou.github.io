@@ -26,7 +26,7 @@ Before opting to use a 3rd party project, look in their README and documentation
 A [package manager](https://en.wikipedia.org/wiki/Package_manager) is a handy tool in the software world that allows you to use a specific version of a 3rd party library in your project, and protects you from getting unexpected changes, even when the library doesn't follow SemVer rules. To name a few: [Cargo](https://doc.rust-lang.org/cargo/) for Rust, [Composer](http://getcomposer.org/) for PHP, and `go mod` [subcommand in Go](https://blog.golang.org/using-go-modules).
 
 #### How do they work?
-Every package manager has a particular file where the version of dependencies is referenced. You can specify a git hash or semver version. When the package manager runs, it downloads the dependencies in a `vendor` (or similar) directory.
+Every package manager has a particular file where dependency versions are referenced. You can specify a git hash or semver version. When the package manager runs, it downloads the dependencies in a `vendor` (or similar) directory.
 
 ### Pros and Cons
 
@@ -40,9 +40,9 @@ If the project references a SemVer version, you can get newer versions with new 
 Depending on your use case, it might be a good idea to fork the project and maintain it yourself. You can still merge changes from upstream if you want to audit them first.
 
 ### Automated tests and CI Server
-A CI pipeline with automated tests (that at the very least check the critical parts of your application) can identify breaking changes. Build code even if your code hasn't changed, as upstream dependencies will continue to evolve.
+A CI pipeline with automated tests (that at the very least check the critical parts of your application) can identify breaking changes. Build code even if your code hasn't changed, as upstream dependencies continue to evolve.
 
-If a breaking change is detected, your tests will fail because the 3rd party library API will be different, and you will know something is wrong and start investigating the issue, and eventually find the breaking change.
+If a breaking change is detected, your tests should fail because the 3rd party library API has changed, and you know something is wrong, so you investigate the issue and eventually find the breaking change.
 
 ## How to fix a broken upstream dependency?
 You can update your project to use the updated API, or if you are in a hurry, vendor the library with the breaking change until you are ready to upgrade.
