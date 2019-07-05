@@ -2,7 +2,7 @@
 layout: post
 title:  "What makes a good engineer?"
 description: "My take on what I think makes a good engineer based on my learnings"
-date: "2018-02-17T17:40:19+00:00"
+date: "2019-05-07T23:36:00+00:00"
 tags: "software engineer teamplayer productivity"
 ---
 
