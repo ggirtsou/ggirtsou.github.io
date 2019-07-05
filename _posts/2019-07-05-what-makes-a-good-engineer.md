@@ -3,7 +3,7 @@ layout: post
 title:  "What makes a good engineer?"
 description: "My take on what I think makes a good engineer based on my learnings"
 date: "2018-02-17T17:40:19+00:00"
-tags: "software", "engineer", "teamplayer", "productivity"
+tags: "software engineer teamplayer productivity"
 ---
 
 There are a few traits that I've identified over the years that in my opinion, make up a good software engineer:
