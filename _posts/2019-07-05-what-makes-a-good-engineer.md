@@ -6,6 +6,10 @@ date: "2019-07-05T23:36:00+00:00"
 tags: "software engineer teamplayer productivity"
 ---
 
+![What makes a great engineer?](./assets/images/posts/what-makes-a-great-engineer.jpg "What makes a great engineer?")
+
+Photo by [Amritanshu Sikdar](https://unsplash.com/@da_sikka_x?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/perfect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 There are a few traits that I've identified over the years that in my opinion, make up a good software engineer:
 
 ## You learn and improve
