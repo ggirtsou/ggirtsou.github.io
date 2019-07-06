@@ -16,6 +16,10 @@ Have you heard of [Terraform](https://www.terraform.io/)? It is a tool that allo
 
 Terraform tracks the current state of your infrastructure in [state files](https://www.terraform.io/docs/state/index.html), and performs a delta diff similar to how git does it and applies only the changes.
 
+An example Terraform diff:
+
+![An example Terraform diff](/assets/images/posts/the-essence-of-terraform.jpg "An example Terraform diff")
+
 ## Why?
 
 I've heard people say their organization is cloud agnostic which  means they are not locked into a specific vendor and can switch with relatively low effort. Reason for changing vendor can be more competitive pricing somewhere else.
