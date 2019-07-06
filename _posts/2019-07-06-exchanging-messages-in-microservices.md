@@ -33,8 +33,6 @@ You might have heard the term _pipeline_. This can be used in different contexts
 * `Microservice 2` downloads that file and updates the `rates` database and creates a message.
 * `Microservice 3` clears the rates cache and warms up the cache. Now the website can serve up to date rates to the client.
 
-<insert-diagram>
-
 Although small, the above is a microservices pipeline.
 
 ## How are the messages transmitted?
@@ -51,8 +49,6 @@ On the tech side of things, there's a lot more to it, such as [node coordination
 As with everything, [distributed systems come with tradeoffs](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing). Services can fail at any point, an upstream dependency might be down, or a message could contain data that cause our services to crash.
 
 So we need visibility in the pipeline. The first step of achieving that is by using correlation IDs. The way this works is, every time you get a new message at the beginning of your pipeline, you generate and assign it a [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier). When that message is handled by the next service and another message is generated, use the same correlation ID to track its flow in the pipeline.
-
-<insert-diagram>
 
 ## What happens with failed / invalid messages?
 
