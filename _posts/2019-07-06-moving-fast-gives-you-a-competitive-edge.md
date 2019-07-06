@@ -36,7 +36,7 @@ That meant I had to find a way to modify XML feeds on the fly dynamically in PHP
 
 Sounded like a good idea, but that didn't cut it for us! We could do better! And we did. 80% of the generated feeds were created using default options (we had sensible defaults), so we had a cached version ready and swapped the {affID} placeholder using [sed](https://linux.die.net/man/1/sed), with the user's ID. Subsequent requests for the same feed served the cached version until TTL was expired.
 
-We made it easy for them to create grids, collages, custom feeds, SMS notification system for new leads and so much more.
+We made it easy for them to create product grids and collages, custom feeds, SMS notification system for new leads and so much more.
 
 At the same time, we migrated all data from the legacy platform DirectTrack to HasOffers and seamlessly integrated the tools inside the platform so that they could manage everything under one place.
 
