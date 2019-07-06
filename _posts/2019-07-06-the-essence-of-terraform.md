@@ -31,7 +31,7 @@ I brought it up at work to see what others think, and I did some research online
 
 Such a concept would push you to think in terms of "VMs" and "disk volumes", as not all cloud vendors have the same products and options.
 
-Kubernetes is an option that can run in different cloud platforms, but at some point, you will use a cloud SDK in your apps. You build products around a vendor.
+[Kubernetes](https://kubernetes.io/) is an option that can run in different cloud platforms, but at some point, you will use a cloud SDK in your apps. You build products around a vendor.
 
 If you're interested in a lengthier explanation, [read this](https://www.finextra.com/blogposting/16840/cloud-native-vs-cloud-agnostic-what-conundrum-behind-the-hype).
 
@@ -39,7 +39,9 @@ So as part of that thought experiment, I started thinking about what Terraform d
 
 ## The essence
 
-If we simplify Terraform and exclude its state and storage characteristics, we end up with a translation mechanism! That "translation" mechanism is simply reading HCL files and makes the appropriate API calls by using [providers](https://www.terraform.io/docs/configuration/providers.html).
+If we simplify Terraform and exclude its state management and storage characteristics, we end up with a translation mechanism! That "translation" mechanism is simply reading HCL files and makes the appropriate API calls by using [providers](https://www.terraform.io/docs/configuration/providers.html).
+
+In the simplest terms, you can say [AWS CloudFormation](https://aws.amazon.com/cloudformation/) does the same but takes JSON and YAML as input.
 
 ## Your experience
 
