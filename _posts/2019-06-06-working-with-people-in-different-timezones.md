@@ -16,7 +16,7 @@ Remote working can be tricky, tiring, have slow feedback cycles, and the most st
 
 ## Talent is not necessarily where your company's HQ is
 
-You want the best people (skill and behaviour-wise) to work for your company. Adapt your culture to embrace remote working so that you can have access to more talent.
+You want the best people (skill and behaviour and culture fit wise) to work for your company. Adapt your culture to embrace remote working so that you can have access to more talent.
 
 ## What is the remote working landscape in London, UK?
 
