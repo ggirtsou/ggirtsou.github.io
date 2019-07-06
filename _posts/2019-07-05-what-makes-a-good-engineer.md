@@ -95,4 +95,4 @@ Self-explanatory :)
 
 ## Your experience
 
-I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts and about what you think makes a good engineer. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
