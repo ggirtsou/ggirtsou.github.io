@@ -34,13 +34,13 @@ Technologists become excited with the idea of making things fast, and sometimes 
 
 ## You deliver tested code with meaningful abstractions
 
-Writing tests is great, but using TDD is even better! When you start with a test, you write the minimum amount of code required to make it pass, and iterate on that until that function is ready. TDD can help reduce complexity and protects you from writing tests that adhere to your current code, which could already have bugs. 
+Writing tests is great, but using [TDD](https://en.wikipedia.org/wiki/Test-driven_development) is even better! When you start with a test, you write the minimum amount of code required to make it pass, and iterate on that until that function is ready. TDD can help reduce complexity and protects you from writing tests that adhere to your current code, which could already have bugs. 
 
 There are different types of tests, and a good developer must at least know the difference between unit and functional tests.
 
 Some time ago, I was in favour of orchestrating microservices in a test environment and test their input/output and checking that messages went through OK. However, David Farley, author of [Continuous Delivery](https://www.continuous-delivery.co.uk/) book, told me in person if you have to do this kind of testing, you're better off writing a monolith to make your life easier.
 
-Keep that in mind when next time you try to orchestrate them with `docker-compose` in CI. It's nice that you want to make sure your data pipeline works as you want it, but there's a more straightforward way: message contract frameworks like Protobuf ensure that your code breaks in CI if contracts change and your code hasn't.
+Keep that in mind when next time you try to orchestrate them with `docker-compose` in CI. It's nice that you want to make sure your data pipeline works as you want it, but there's a more straightforward way: message contract frameworks like [Protobuf](https://developers.google.com/protocol-buffers/) ensure that your code breaks in CI if contracts change and your code hasn't.
 
 ## You develop software with security in mind
 
