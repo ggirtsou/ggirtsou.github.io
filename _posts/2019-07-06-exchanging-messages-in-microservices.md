@@ -34,6 +34,8 @@ You might have heard the term _pipeline_. This can be used in different contexts
 * `Microservice 2` downloads that file and updates the `rates` database and creates a message.
 * `Microservice 3` clears the rates cache and warms up the cache. Now the website can serve up to date rates to the client.
 
+![Microservice Pipeline Diagram](/assets/images/posts/microservice-pipeline-diagram.png "Microservice Pipeline Diagram")
+
 Although small, the above is a microservices pipeline.
 
 ## How are the messages transmitted?
