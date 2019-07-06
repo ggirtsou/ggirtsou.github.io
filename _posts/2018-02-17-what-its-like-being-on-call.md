@@ -6,6 +6,10 @@ date: "2018-02-17T17:40:19+00:00"
 tags: "on-call"
 ---
 
+![What is it like being on-call?](/assets/images/posts/what-is-it-like-being-on-call.jpg "What is it like being on-call?")
+
+Photo by [Cem Sagisman](https://unsplash.com/@cems77?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/perfect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 Being on-call means, you are responsible to fix an error, in a timely manner, when it occurs in production (time varies for each organisation).
 
 On-call can seem scary, especially if you've never done it before, or if you are new to the services. If you are new to a company/team and you
