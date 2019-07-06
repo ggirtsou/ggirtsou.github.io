@@ -8,6 +8,8 @@ tags: "remote working challenges timezones distributed teams"
 
 ![Working with people in different timezones](/assets/images/posts/working-with-remote-people-in-different-timezones.jpg "Working with people in different timezones")
 
+Photo by [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/perfect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 Over the years, I've learnt how to collaborate with people working remotely effectively and how to remain productive and remove distractions when working remotely. In this post, I talk about my learnings and how I approached it.
 
 Remote working can be tricky, tiring, have slow feedback cycles, and the most straightforward decisions can take weeks.
