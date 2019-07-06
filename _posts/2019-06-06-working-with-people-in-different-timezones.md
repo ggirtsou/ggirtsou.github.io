@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working with people in different timezones"
-description: "My learning on how to work with people in different timezones"
+description: "My learnings on how to work with people in different timezones"
 date: "2019-07-06T13:19:00+00:00"
 tags: "remote working challenges timezones distributed teams"
 ---
