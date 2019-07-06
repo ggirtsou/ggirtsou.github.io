@@ -109,3 +109,7 @@ No need to spend hours checking the logs, or getting interrupted from your work 
 Be aware it takes a long time to adapt it to existing systems, as you have to think about what's useful to you, and how you are going to do your searches. Also, don't forget the code changes! Besides that, your team has to learn how to operate it and have a disaster recovery plan.
 
 Prepare a presentation for your team and talk about the benefits to senior stakeholders to make sure everyone is on board with this decision, as it will require development effort. Remember, sometimes we have to go slow to go faster later!
+
+## Your experience
+
+I'd love to hear your thoughts about microservices and problems you encountered. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
