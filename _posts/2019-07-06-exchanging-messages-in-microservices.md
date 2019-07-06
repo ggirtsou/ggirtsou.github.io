@@ -40,7 +40,7 @@ Although small, the above is a microservices pipeline.
 
 ## How are the messages transmitted?
 
-Glad you asked! Through the [PubSub pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). There are many open-source tools, such as [Apache Kafka](https://kafka.apache.org/), [NATS](https://nats.io/), or managed like [Confluent](https://www.confluent.io/), and [AWS SQS](https://aws.amazon.com/sqs/). The terminology varies slightly in each tool, but the concept is simple:
+Glad you asked! Through the [PubSub pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). There are many open-source tools, such as [Apache Kafka](https://kafka.apache.org/), [NATS](https://nats.io/), or managed like [Confluent](https://www.confluent.io/), and [AWS SQS](https://aws.amazon.com/sqs/). The terminology varies slightly in each tool, but the concept remains the same:
 
 * You have topics that hold the messages
 * Services create and consume messages from topics
