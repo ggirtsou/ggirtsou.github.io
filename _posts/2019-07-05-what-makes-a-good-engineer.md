@@ -92,3 +92,7 @@ Keep an open mind, it is difficult to have others telling you what they think ab
 ## You allow others to speak their mind and don't interrupt them.
 
 Self-explanatory :)
+
+## Your experience
+
+I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!

@@ -52,3 +52,7 @@ Depending on your use case/organization/preferences, one approach might seem mor
 ## Examples of breaking changes in real life
 
 * [logrus, a popular logging library in Go](https://github.com/sirupsen/logrus/issues/451)
+
+## Your experience
+
+I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!

@@ -85,9 +85,6 @@ are replicated and instances run across different availability zones and regions
 
 The on-call engineer can do so much, but it's not up to them to make everything from scratch shall a failure occurs.
 
-![On call](https://pbs.twimg.com/media/CyYglEWXcAIcuf0.jpg:large)
-_Pictured above: "Welcome to the cloud, here's the system, you'll be on call today" [source](https://twitter.com/mononcqc/status/803365410347352064)_
-
 ## How do you get alerted?
 
 Usually, you install an application on your phone such as [OpsGenie](https://www.opsgenie.com/) or [PagerDuty](https://www.pagerduty.com/) and
@@ -98,4 +95,4 @@ send you an SMS message (in cases where mobile data reception is bad).
 
 ## Your experience
 
-I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on Twitter](https://twitter.com/GeorgeGkirtsou)!
+I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!

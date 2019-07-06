@@ -112,3 +112,7 @@ For more on distributed systems, reliable microservices, and event sourcing I re
 * [Distributed Systems by Maarten van Steen,‎ Andrew S. Tanenbaum](https://www.amazon.co.uk/Distributed-Systems-Maarten-van-Steen/dp/1543057381) also freely available [here](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/ds3-sneak-preview/),
 * [Production-Ready Microservices](http://shop.oreilly.com/product/0636920053675.do) by Susan J. Fowler,
 * [eBook download for Event Sourcing and CQRS by Microsoft](https://www.microsoft.com/en-gb/download/details.aspx?id=34774)
+
+## Your experience
+
+I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
