@@ -6,6 +6,10 @@ date: "2018-02-17T21:07:39+00:00"
 tags: "microservices go-live"
 ---
 
+![Microservices Go-live checklist](/assets/images/posts/microservices-go-live-checklist.jpg "Microservices Go-live checklist")
+
+Photo by [Louis Moncouyoux](https://unsplash.com/@louis_moncouyoux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/perfect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 More and more organisations break up monoliths (formerly known as "app") in smaller services
 and adopt microservices architecture pattern and they communicate in an asynchronous way via Event Sourcing. The main benefits are:
 

@@ -6,6 +6,10 @@ date: "2018-02-17T13:10:39+00:00"
 tags: "open-source semver breaking-changes"
 ---
 
+![Breaking Changes in Open Source](/assets/images/posts/breaking-changes-in-open-source.jpg "Breaking Changes in Open Source")
+
+Photo by [John-Mark Smith](https://unsplash.com/@mrrrk_smith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/perfect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 In today's software world, your project depends upon 3rd party software that you did not write. Even if you examine the source code of the packages you import in your project; you still don't know what the Operating System and its dependencies do, or what a cloud provider does as its proprietary code. It could be that we don't have the time (or knowledge), or permission to read the source code.
 
 Let's explore the options on how to get the latest updates without breaking your software, and what you can do if it happens.
