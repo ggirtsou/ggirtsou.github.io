@@ -34,7 +34,7 @@ Technologists become excited with the idea of making things fast, and sometimes 
 
 ## You deliver tested code with meaningful abstractions
 
-Writing tests is great, but using [TDD](https://en.wikipedia.org/wiki/Test-driven_development) is even better! When you start with a test, you write the minimum amount of code required to make it pass, and iterate on that until that function is ready. TDD can help reduce complexity and protects you from writing tests that adhere to your current code, which could already have bugs. 
+Writing tests is great, but following [TDD](https://en.wikipedia.org/wiki/Test-driven_development) methodology is even better! When you start with a test, you write the minimum amount of code required to make it pass, and iterate on that until that function is ready. TDD can help reduce complexity and protects you from writing tests that adhere to your current code, which could already have bugs.
 
 There are different types of tests, and a good developer must at least know the difference between unit and functional tests.
 
