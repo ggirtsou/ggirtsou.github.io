@@ -80,6 +80,8 @@ What you can do, is to expose the dead-lettered messages in a UI for a group tha
 * present them in a UI with pagination, search, and filter functionality
 * have a re-submission mechanism that will send it to the original pub/sub topic and set a new correlation ID
 
+![Dead-letter architecture diagram](/assets/images/posts/pubsub-deadletter-diagram.png "Dead-letter architecture diagram")
+
 Surely you understand why people want to cut corners and skip this because they have to do it for every pipeline that uses pub/sub. Or you can be smart about it and try to make it more generic and configurable to allow handling failed messages from different pipelines in the same system.
 
 Alternatively, if you don't want to make a UI to resolve exceptions, you can send automated notifications to a group that's interested in those failures.
