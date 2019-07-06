@@ -4,6 +4,7 @@ title:  "What makes a good engineer?"
 description: "My take on what I think makes a good engineer based on my learnings"
 date: "2019-07-05T23:36:00+00:00"
 tags: "software engineer teamplayer productivity"
+reading_time: "6 mins"
 ---
 
 ![What makes a great engineer?](/assets/images/posts/what-makes-a-great-engineer.jpg "What makes a great engineer?")

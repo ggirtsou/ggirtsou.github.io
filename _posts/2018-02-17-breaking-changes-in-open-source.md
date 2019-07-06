@@ -4,6 +4,7 @@ title:  "Introducing Breaking Changes in Open Source"
 description: "Your app depends on 3rd party open source software - how do you avoid breaking changes?"
 date: "2018-02-17T13:10:39+00:00"
 tags: "open-source semver breaking-changes"
+reading_time: "3 mins"
 ---
 
 ![Breaking Changes in Open Source](/assets/images/posts/breaking-changes-in-open-source.jpg "Breaking Changes in Open Source")

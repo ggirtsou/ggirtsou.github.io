@@ -4,6 +4,7 @@ title:  "Moving fast gives you a competitive edge"
 description: "The story of how I learnt that moving fast is essential in corporate world."
 date: "2019-07-06T11:26:00+00:00"
 tags: "startup iterations agile innovation"
+reading_time: "3 mins"
 ---
 
 ![Moving fast gives you a competitive edge](/assets/images/posts/moving-fast-gives-you-a-competitive-edge.jpg "Moving fast gives you a competitive edge")

@@ -4,6 +4,7 @@ title:  "Working with people in different timezones"
 description: "My learnings on how to work with people in different timezones"
 date: "2019-07-06T13:19:00+00:00"
 tags: "remote working challenges timezones distributed teams"
+reading_time: "4 mins"
 ---
 
 ![Working with people in different timezones](/assets/images/posts/working-with-remote-people-in-different-timezones.jpg "Working with people in different timezones")

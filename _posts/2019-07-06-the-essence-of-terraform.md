@@ -4,6 +4,7 @@ title:  "The essence of Terraform"
 description: "A thought experiment about cloud-agnostic led me to think about what Terraform really does"
 date: "2019-07-06T16:21+00:00"
 tags: "cloud agnostic terraform hcl abstractions"
+reading_time: "3 mins"
 ---
 
 ![The essence of Terraform](/assets/images/posts/the-essence-of-terraform.jpg "The essence of Terraform")
