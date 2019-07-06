@@ -34,7 +34,7 @@ Not only it was a fast-paced environment, but some of the problems were hard. We
 
 That meant I had to find a way to modify XML feeds on the fly dynamically in PHP. PHP does not do well with XML as it tries to load the whole file in memory and then start modifying it. With large XML files that weren't an option. I suggested we needed a Search Engine mechanism to index product inventory and generate the feeds based on the parameters each affiliate specified.
 
-Sounded like a good idea, but that didn't cut it for us! We could do better! And we did. 80% of the generated feeds were created using default options (we had sensible defaults), so we had a cached version ready and swapped the {affID} placeholder using sed, with the user's ID. Subsequent requests for the same feed served the cached version until TTL was expired.
+Sounded like a good idea, but that didn't cut it for us! We could do better! And we did. 80% of the generated feeds were created using default options (we had sensible defaults), so we had a cached version ready and swapped the {affID} placeholder using [sed](https://linux.die.net/man/1/sed), with the user's ID. Subsequent requests for the same feed served the cached version until TTL was expired.
 
 We made it easy for them to create grids, collages, custom feeds, SMS notification system for new leads and so much more.
 
