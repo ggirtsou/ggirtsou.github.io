@@ -102,7 +102,7 @@ Useful metadata for the above pipeline would be correlation ID and device ID. If
 
 ![Trace view in Jaeger](/assets/images/posts/trace-detail.png "Trace view in Jaeger")
 
-No need to spend hours checking the logs, or getting interrupted from your work to troubleshoot mysteries. If its a code error, you have your answer in minutes and you can focus the fix rather than finding an answer.
+No need to spend hours checking the logs, or getting interrupted from your work to troubleshoot mysteries. If its a code error, you have the answer in minutes and you can focus on the fix rather than finding an answer.
 
 Be aware it takes a long time to adapt it to existing systems, as you have to think about what's useful to you, and how you are going to do your searches. Also, don't forget the code changes! Besides that, your team has to learn how to operate it and have a disaster recovery plan.
 
