@@ -72,7 +72,7 @@ Time management is essential. Distractions are everywhere (@here), but work has 
 
 ## You know when to stop and avoid burnout
 
-I cannot stress how important this is - burnout is real. We all faced it. Being able to recognize it, respect your limits and ask for time off to "charge your batteries" is a must. Failure to do so results in loss of productivity and stress increase. People like to work hard, but nothing positive comes out of crashing.
+I cannot stress how important this is - burnout is real. We all faced it. Being able to recognize it, respect your limits and ask for time off to "charge your batteries" is a must. Failure to do so results in loss of productivity and stress increase. Some people like to work hard, but nothing positive comes out of crashing.
 
 You are less likely to experience burnout if you work in a team where work is exciting, challenging, rewarding, and you enjoy working with your teammates.
 
