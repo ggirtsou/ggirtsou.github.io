@@ -5,6 +5,7 @@ description: "The story of how I learnt that moving fast is essential in corpora
 date: "2019-07-06T11:26:00+00:00"
 tags: "startup iterations agile innovation"
 reading_time: "3 mins"
+comments: true
 ---
 
 ![Moving fast gives you a competitive edge](/assets/images/posts/moving-fast-gives-you-a-competitive-edge.jpg "Moving fast gives you a competitive edge")

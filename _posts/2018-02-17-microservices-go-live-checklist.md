@@ -4,6 +4,7 @@ title:  "Microservices Go-live checklist"
 description: "What criteria do your microservices need to meet to be deployed?"
 date: "2018-02-17T21:07:39+00:00"
 tags: "microservices go-live"
+comments: true
 ---
 
 ![Microservices Go-live checklist](/assets/images/posts/microservices-go-live-checklist.jpg "Microservices Go-live checklist")

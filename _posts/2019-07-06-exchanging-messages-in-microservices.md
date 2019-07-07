@@ -5,6 +5,7 @@ description: "Learn how to exchange messages and avoid costly mistakes"
 date: "2019-07-06T22:08:00+00:00"
 tags: "microservices event sourcing deadletter contracts pipeline"
 reading_time: "7 mins"
+comments: true
 ---
 
 ![Exchanging messages in microservices](/assets/images/posts/exchanging-messages-in-microservices.jpg "Exchanging messages in microservices")

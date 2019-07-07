@@ -4,6 +4,7 @@ title:  "What is it like being on-call?"
 description: "What are the challenges of being on call and why is it necessary?"
 date: "2018-02-17T17:40:19+00:00"
 tags: "on-call"
+comments: true
 ---
 
 ![What is it like being on-call?](/assets/images/posts/what-is-it-like-being-on-call.jpg "What is it like being on-call?")
