@@ -18,7 +18,7 @@ This post is the story of how I learnt that moving is essential to get a competi
 
 My first job was at an Affiliate Network startup in Athens, Greece. The market in Greece is small, about 11 million people and only [3.5 million of them](https://www.export.gov/article?id=Greece-eCommerce-Overview) buy goods online.
 
-![Greece's population is about 11 million people](/assets/images/posts/greek-population.png "Greece's population is about 11 million people")
+![Greece's population is about 11 million people](/assets/images/posts/greek-population.jpg "Greece's population is about 11 million people")
 
 ## The Competition
 

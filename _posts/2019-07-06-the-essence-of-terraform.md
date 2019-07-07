@@ -20,7 +20,7 @@ Terraform tracks the current state of your infrastructure in [state files](https
 
 An example Terraform diff:
 
-![An example Terraform diff](/assets/images/posts/terraform-plan.png "An example Terraform diff")
+![An example Terraform diff](/assets/images/posts/terraform-plan.jpg "An example Terraform diff")
 
 ## Why?
 

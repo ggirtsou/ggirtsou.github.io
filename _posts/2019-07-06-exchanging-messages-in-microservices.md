@@ -35,7 +35,7 @@ You might have heard the term _pipeline_. This can be used in different contexts
 * `Microservice 2` downloads that file and updates the `rates` database and creates a message.
 * `Microservice 3` clears the rates cache and warms up the cache. Now the website can serve up to date rates to the client.
 
-![Microservice Pipeline Diagram](/assets/images/posts/microservice-pipeline-diagram.png "Microservice Pipeline Diagram")
+![Microservice Pipeline Diagram](/assets/images/posts/microservice-pipeline-diagram.jpg "Microservice Pipeline Diagram")
 
 Although small, the above is a microservices pipeline.
 
@@ -81,7 +81,7 @@ What you can do, is to expose the dead-lettered messages in a UI for a group tha
 * present them in a UI with pagination, search, and filter functionality
 * have a re-submission mechanism that will send it to the original pub/sub topic and set a new correlation ID
 
-![Dead-letter architecture diagram](/assets/images/posts/pubsub-deadletter-diagram.png "Dead-letter architecture diagram")
+![Dead-letter architecture diagram](/assets/images/posts/pubsub-deadletter-diagram.jpg "Dead-letter architecture diagram")
 
 Surely you understand why people want to cut corners and skip this because they have to do it for every pipeline that uses pub/sub. Or you can be smart about it and try to make it more generic and configurable to allow handling failed messages from different pipelines in the same system.
 
@@ -103,7 +103,7 @@ Meet [OpenTracing](https://opentracing.io) and [Jaeger](https://www.jaegertracin
 
 Useful metadata for the above pipeline would be correlation ID and device ID. If you always have a correlation ID and use that in traces, then the UI will let you search by that tag and then shows you the journey your message took. You can even view the error in the UI if you want to, and see precisely at what step it failed.
 
-![Trace view in Jaeger](/assets/images/posts/trace-detail.png "Trace view in Jaeger")
+![Trace view in Jaeger](/assets/images/posts/trace-detail.jpg "Trace view in Jaeger")
 
 No need to spend hours checking the logs, or getting interrupted from your work to troubleshoot mysteries. If its a code error, you have the answer in minutes and you can focus on the fix rather than finding an answer.
 
