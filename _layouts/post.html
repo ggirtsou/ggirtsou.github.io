@@ -10,8 +10,6 @@ comments: true
 
 <h1>{{ page.title }}</h1>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_native_toolbox"></div>
-
 {{content}}
 
 {% if page.tags %}
@@ -20,21 +18,4 @@ comments: true
 
 {% if page.comments %}
 <hr />
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = "{{ site.url }}{{ page.url }}";
-this.page.identifier = "{{page.title}}";
-};
 
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://http-ggirtsou-com.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
-
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50019cfe025504c5"></script>
