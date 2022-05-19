@@ -51,4 +51,4 @@ In the simplest terms, you can say [AWS CloudFormation](https://aws.amazon.com/c
 
 ## Your experience
 
-I'd love to hear your thoughts or whether being cloud agnostic is possible or not. If you know any projects that do that please [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts or whether being cloud agnostic is possible or not. If you know any projects that do that please [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
