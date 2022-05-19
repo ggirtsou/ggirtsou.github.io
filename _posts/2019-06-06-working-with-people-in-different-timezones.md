@@ -82,4 +82,4 @@ If you are not in the same timezone as the people you'll be working with, think 
 
 ## Your experience
 
-I'd love to hear your thoughts or the challenges you faced working remotely. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts or the challenges you faced working remotely. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
