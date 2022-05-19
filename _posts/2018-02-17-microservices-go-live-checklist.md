@@ -120,4 +120,4 @@ For more on distributed systems, reliable microservices, and event sourcing I re
 
 ## Your experience
 
-I'd love to hear your thoughts and about your experience in microservices world. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts and about your experience in microservices world. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
