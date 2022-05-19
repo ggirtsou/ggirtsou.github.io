@@ -61,4 +61,4 @@ Depending on your use case/organization/preferences, one approach might seem mor
 
 ## Your experience
 
-I'd love to hear your thoughts and about your experience dealing with breaking changes. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts and about your experience dealing with breaking changes. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
