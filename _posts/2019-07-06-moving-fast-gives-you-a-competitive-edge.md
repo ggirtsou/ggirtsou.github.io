@@ -48,4 +48,4 @@ As I said, the competition was fierce. Other companies had access to lots of fun
 
 ## Your experience
 
-I'd love to hear your thoughts and similar experiences. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts and similar experiences. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
