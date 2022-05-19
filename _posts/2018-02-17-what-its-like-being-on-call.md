@@ -96,4 +96,4 @@ send you an SMS message (in cases where mobile data reception is bad).
 
 ## Your experience
 
-I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts and about your experience during on-call. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
