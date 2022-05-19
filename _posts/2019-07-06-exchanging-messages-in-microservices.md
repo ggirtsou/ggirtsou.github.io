@@ -113,4 +113,4 @@ Prepare a presentation for your team and talk about the benefits to senior stake
 
 ## Your experience
 
-I'd love to hear your thoughts about microservices and problems you encountered. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/george-g-279883115/)!
+I'd love to hear your thoughts about microservices and problems you encountered. Feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/georgios-g-279883115/)!
